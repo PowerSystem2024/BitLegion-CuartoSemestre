@@ -25,3 +25,16 @@ print(f'a decimal: {a}')
 a = int('1010', 2)
 print(f'a base binario: {a}')
 
+# Base octal
+a = int('12', 8)
+print(f'a base octal: {a}')
+
+# Base hexadecimal
+a = int('17', 16)
+print(f'a base hexadecimal: {a}')
+
+# Base 5
+a = int('346', 5)
+print(f'a base 5: {a}')
+
+
