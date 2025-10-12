@@ -1,3 +1,5 @@
+# Sistemas de numeración
+
 # Sistema decimal
 
 a = 10
@@ -14,4 +16,12 @@ print(f'a octal: {a}')
 # Sistema hexadecimal
 a = 0xA
 print(f'a hexadecimal: {a}')
+
+# Base decimal
+a = int('23', 10)
+print(f'a decimal: {a}')
+
+# Base binaria
+a = int('1010', 2)
+print(f'a base binario: {a}')
 
